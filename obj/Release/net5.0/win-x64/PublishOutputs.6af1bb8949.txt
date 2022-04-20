@@ -1,0 +1,4 @@
+Z:\CodeBin\LIFTOFF\ROCKET\ROCKET\bin\Release\net5.0\publish\win-x64\ROCKET.pdb
+Z:\CodeBin\LIFTOFF\ROCKET\ROCKET\bin\Release\net5.0\publish\win-x64\steam_api.dll
+Z:\CodeBin\LIFTOFF\ROCKET\ROCKET\bin\Release\net5.0\publish\win-x64\steam_api64.dll
+Z:\CodeBin\LIFTOFF\ROCKET\ROCKET\bin\Release\net5.0\publish\win-x64\ROCKET.exe

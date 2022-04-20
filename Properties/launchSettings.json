@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ROCKET": {
+      "commandName": "Project",
+      "commandLineArgs": "-join 23.108.215.252:8077 383790 TheShipRemasted.exe"
+    }
+  }
+}
