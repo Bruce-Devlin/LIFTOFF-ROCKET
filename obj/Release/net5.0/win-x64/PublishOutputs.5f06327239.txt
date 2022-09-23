@@ -1,0 +1,4 @@
+D:\LIFTOFF\GIT\ROCKET\bin\Release\net5.0\publish\win-x64\ROCKET.pdb
+D:\LIFTOFF\GIT\ROCKET\bin\Release\net5.0\publish\win-x64\steam_api.dll
+D:\LIFTOFF\GIT\ROCKET\bin\Release\net5.0\publish\win-x64\steam_api64.dll
+D:\LIFTOFF\GIT\ROCKET\bin\Release\net5.0\publish\win-x64\ROCKET.exe
