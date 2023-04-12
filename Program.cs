@@ -50,7 +50,7 @@ namespace ROCKET
 
             foreach (string arg in tmpArgs)
             {
-                string[] argParts = arg.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                string[] argParts = arg.Split(';', StringSplitOptions.RemoveEmptyEntries);
 
                 List<string> argPartList = new List<string>(Enumerable.Repeat("", 5));
 
